@@ -25,6 +25,7 @@ _deps/
 *.user
 .idea/
 cmake-build-*/
+build/
 *.xcodeproj/
 *.xcworkspace/
 *.log
