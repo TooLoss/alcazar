@@ -20,6 +20,8 @@ _deps/
 !.vscode/tasks.json
 !.vscode/launch.json
 .vs/
+.clangd
+.cache/
 *.sln
 *.vcxproj
 *.user
